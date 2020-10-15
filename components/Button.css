@@ -1,0 +1,19 @@
+.Button{
+ display: flex;
+ height: 4em;
+ flex: 1;
+ justify-content: center;
+ align-items: center;
+ font-weight: lighter;
+ font-size: 2.4em;
+ background-color: yellow;
+ color: #888;
+ outline: 1px solid lavender;
+
+}
+
+.operator{
+    background-color: chocolate;
+    color: antiquewhite;
+
+}
